@@ -21,6 +21,17 @@ Power Bi
 12. Average fare amount per trip.
 13. Total distance travelled in a day by namma yatri drivers.
 14. which is the most used payment method by customer to pay there trip.
-    
+15. Which two location has the most trips:
+16. Top 5 earning drivers in app.
+17. which area got higher number of trips in which duration :
+18. Which duration got the highest number of trips in each of the location present.
+19. which location got the highest fares
+20. which location got the highest driver cancellation
+21. which location got the highest customer cancellation
+22. which duration got the highest fare.
+23. which duration got the highest trips.
 
+
+
+## Dashboard :
 <img width="765" alt="namma yatri dashboard" src="https://github.com/RahulNair097/Namma_Yatri_App_SQL_PowerBi_Dashboard/assets/108625508/3424e6ff-8851-478d-b7b4-68cb1b977a6c">
